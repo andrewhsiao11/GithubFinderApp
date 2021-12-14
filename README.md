@@ -1,6 +1,6 @@
 # Github Finder App
 
-App to search Github users and display their info.
+App to search Github users and display their info. Deployed at [Vercel](https://github-finder-app-phi.vercel.app/).
 
 ## Usage
 
